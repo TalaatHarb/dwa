@@ -1,1 +1,1 @@
-{"root":["./src/App.test.tsx","./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./jest.setup.ts","./vite.config.ts"],"version":"5.8.3"}
+{"root":["./src/App.test.tsx","./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/redux/store.ts","./src/redux/reducers/counterReducer.ts","./src/redux/reducers/index.ts","./jest.setup.ts","./vite.config.ts"],"version":"5.8.3"}
